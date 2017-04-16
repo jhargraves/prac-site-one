@@ -4,4 +4,4 @@ clone this repository
 
 install node
 
-run sass-watch (npm run sass-watch)x
+run sass-watch (npm run sass-watch)
