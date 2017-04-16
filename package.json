@@ -1,0 +1,14 @@
+{
+  "name": "james",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss-w": "node-sass -w scss/ -o build/css/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.2"
+  }
+}
